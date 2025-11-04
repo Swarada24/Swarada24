@@ -49,6 +49,18 @@ MySQL | SQLite | FAISS
 > Developed an interactive dashboard to analyze and visualize sales data, featuring dynamic filtering, performance tracking, and data-driven insights for business decision-making.
 
 ---
+## 📝 Hashnode Blogs  
+
+📚 I regularly write articles to share my journey in **Machine Learning, AI, and Development**.  
+Check out my latest posts on [**Hashnode**](https://hashnode.com/@swaradadeshpande):  
+
+- 🧠 *Understanding Neural Networks from Scratch*  
+- 💡 *How I Built My Offline LLM Travel Assistant*  
+- 🔍 *Hands-On Machine Learning: My Chapter-Wise Learnings*  
+- 🎬 *Building a Movie Recommender System with PyQt5*  
+
+*(More articles coming soon!)*
+---
 
 ## 📈 GitHub Stats  
 
