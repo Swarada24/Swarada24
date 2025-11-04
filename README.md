@@ -44,7 +44,7 @@ MySQL | SQLite | FAISS
 *Tech Stack: llama-cpp-python, FAISS, SQLite, Flask, HTML/CSS*  
 > An AI-powered offline travel companion with district-level details for Maharashtra.
 
-### 📊 [Mealytics 7 Dashboard Project](#)
+### 📊 [Mealytics: AI- Powered Analytics for Sales](#)
 *Tech Stack: Streamlit, Python, Pandas, Matplotlib*  
 > Developed an interactive dashboard to analyze and visualize sales data, featuring dynamic filtering, performance tracking, and data-driven insights for business decision-making.
 
